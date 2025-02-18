@@ -8,7 +8,7 @@ Willkommen bei **ShadowFox-Gaming**! 🎮 Wir sind eine Community für Gamer, En
 <!-- - 🌐 **Website**: Infos, News und mehr rund um unsere Community. -->
 
 ## 🔗 Links
-- 💬 [Unser Discord-Server](https://discord.gg/dein-link)
+- 💬 [ShadowFox Gaming](https://discord.gg/Vm7nVeDYVP)
 <!-- - 🛠 [Unsere Repositories](https://github.com/ShadowFox-Gaming)
 - 🌍 [Unsere Website](https://shadowfox-gaming.com) *(Falls vorhanden)* -->
 
