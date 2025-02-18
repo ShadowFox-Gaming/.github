@@ -13,5 +13,5 @@ Willkommen bei **ShadowFox-Gaming**! 🎮 Wir sind eine Community für Gamer, En
 - 🌍 [Unsere Website](https://shadowfox-gaming.com) *(Falls vorhanden)* -->
 
 ## 🚀 Mitmachen
-Wir freuen uns über Beiträge! Falls du mitmachen willst, check unsere Repos und join den Discord. 💡
+Wir freuen uns über Beiträge! Falls du mitmachen willst, check unseren Discord und bewerbe dich bei unserer Serverleitung. 💡
 
