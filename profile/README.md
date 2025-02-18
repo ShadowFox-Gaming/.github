@@ -4,7 +4,7 @@ Willkommen bei **ShadowFox-Gaming**! 🎮 Wir sind eine Community für Gamer, En
 
 ## 🌟 Was wir bieten
 - 🖥 **Discord-Community**: Ein Ort für Gaming, Technik und spannende Gespräche.
-- 🤖 **Eigener Discord-Bot**: Smarte Features zur Automatisierung und Unterhaltung.
+- 🤖 **Eigener Discord-Bot**: Smarte Features zur Automatisierung und Moderierung.
 <!-- - 🌐 **Website**: Infos, News und mehr rund um unsere Community. -->
 
 ## 🔗 Links
