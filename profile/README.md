@@ -14,9 +14,8 @@ Willkommen bei **ShadowFox-Gaming**! 🎮 Wir sind eine Community für Gamer, En
 
 ## 🚀 Mitmachen
 Wir freuen uns über Beiträge! Falls du mitmachen willst, check unseren Discord und bewerbe dich bei unserer Serverleitung. 💡
-
-
-### Serverleitung
+<br /><br />
+### Die Serverleitung
 Owner <br />
 -> Fuchs <br />
 ![Fuchs](https://github.com/ShadowFox-Gaming/Discordbot-shadowFox/blob/main/.github/assets/Fuchs.png) <br />
