@@ -15,3 +15,16 @@ Willkommen bei **ShadowFox-Gaming**! 🎮 Wir sind eine Community für Gamer, En
 ## 🚀 Mitmachen
 Wir freuen uns über Beiträge! Falls du mitmachen willst, check unseren Discord und bewerbe dich bei unserer Serverleitung. 💡
 
+
+### Serverleitung
+Owner <br />
+-> Fuchs <br />
+![Fuchs](https://github.com/ShadowFox-Gaming/Discordbot-shadowFox/blob/main/.github/assets/Fuchs.png) <br />
+-> Shadow <br />
+![Shadow](https://github.com/ShadowFox-Gaming/Discordbot-shadowFox/blob/main/.github/assets/Shadow.png) <br />
+Owners' Assistent <br />
+-> bin_Katze <br />
+![bin_Katze](https://github.com/ShadowFox-Gaming/Discordbot-shadowFox/blob/main/.github/assets/binKatze.png) <br />
+Developer <br />
+-> Annalytic <br />
+![Annalytic](https://github.com/ShadowFox-Gaming/Discordbot-shadowFox/blob/main/.github/assets/Annalytic.png)
